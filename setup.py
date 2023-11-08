@@ -1,10 +1,10 @@
 from distutils.core import setup
-from lean2md.__main__ import __version__
+from lean2mdh.__main__ import __version__
 
 setup(
-    name="lean2md",
+    name="lean2mdh",
     version=__version__,
-    packages=['lean2md'],
+    packages=['lean2mdh'],
     author='Arthur Leonardo de Alencar Paulino',
     author_email='arthurleonardo.ap@gmail.com',
     url='https://github.com/arthurpaulino/lean2md',
